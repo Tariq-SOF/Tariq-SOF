@@ -80,7 +80,6 @@ Feel free to reach out for collaboration or job opportunities:
   <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="HTML5" width="50"/>
   <img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" alt="CSS3" width="50"/>
   <img src="https://cdn-icons-png.flaticon.com/128/226/226770.png" alt="Spring Boot" width="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919854.png" alt="Node.js" width="50"/>
   <img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" alt="PostgreSQL" width="50"/>
   <img src="https://cdn-icons-png.flaticon.com/128/919/919841.png" alt="MongoDB" width="50"/>
   <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" alt="GitHub" width="50"/>
