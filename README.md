@@ -1,4 +1,4 @@
-# 🚀 Tariq Alshalahi - Full Stack Developer
+#  Tariq Alshalahi - Full Stack Developer
 
 ## 👋 About Me
 Hi, I'm **TariQ Alshalahi**, a passionate **Full Stack Developer** specializing in building modern, scalable web applications. I have extensive experience in **frontend and backend development**, focusing on creating dynamic user experiences and robust server-side applications.
@@ -7,8 +7,8 @@ I thrive in **agile environments**, collaborating with teams to bring innovative
 
 ---
 
-## 🛠️ Tech Stack & Tools
-### 🚀 Frontend Development
+##  Tech Stack & Tools
+###  Frontend Development
 - **Languages**: HTML5, CSS3, JavaScript, TypeScript
 - **Frameworks & Libraries**: React.js, Angular
 - **Build Tools**: Vite, Webpack
@@ -20,7 +20,7 @@ I thrive in **agile environments**, collaborating with teams to bring innovative
 - **Database Management**: SQL Server, PostgreSQL, Elasticsearch
 - **RESTful APIs & GraphQL**
 
-### ☁️ DevOps & Cloud
+###  DevOps & Cloud
 - **Hosting & Deployment**: AWS, Vercel, Render
 - **Containerization**: Docker
 - **Version Control**: Git, GitHub
@@ -28,15 +28,15 @@ I thrive in **agile environments**, collaborating with teams to bring innovative
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### **1️⃣ Raknh Platform** - **Parking Management System**
+### ** Raknh Platform** - **Parking Management System**
 A full-stack web application for managing and reserving parking spaces, built with **React.js, ASP.NET Core, and SQL Server**.
 - Implemented **real-time availability tracking**
 - Developed a secure **authentication system**
 - Integrated **payment processing** using Stripe
 
-### **2️⃣ Thiqah Legal Document Analyzer**
+### ** Thiqah Legal Document Analyzer**
 A **legal document processing system** powered by **Python and AI**.
 - Extracts legal references from uploaded documents
 - Uses **Elasticsearch** for fast legal case search
@@ -44,19 +44,19 @@ A **legal document processing system** powered by **Python and AI**.
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 Feel free to reach out for collaboration or job opportunities:
-- 📧 **Email**: tariq.alshalahi@gmail.com
-- 🐙 **GitHub**: [Tariq-SOF](https://github.com/Tariq-SOF)
-- 💼 **LinkedIn**: [Tariq ALshalahi](https://www.linkedin.com/in/tariq-almutairi-80/)
+-  **Email**: tariq.alshalahi@gmail.com
+-  **GitHub**: [Tariq-SOF](https://github.com/Tariq-SOF)
+-  **LinkedIn**: [Tariq ALshalahi](https://www.linkedin.com/in/tariq-almutairi-80/)
 
 
 
 ---
 
-🔹 *Let's build something amazing together!* 🚀
+🔹 *Let's build something amazing together!* 
 
-### 🛠️ Full-Stack Developer Tech Stack:
+###  Full-Stack Developer Tech Stack:
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="50"/>
